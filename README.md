@@ -28,3 +28,10 @@ pip install streamlit
 ```bash
 streamlit run brain_training_app.py
 ```
+Once launched, Streamlit will open the app in your browser automatically.
+If not, use the local URL shown in the terminal.
+
+## 🤝 Contributing
+
+Pull requests and improvements are welcome.
+For major changes, please open an issue first to discuss your ideas.
